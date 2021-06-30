@@ -54,4 +54,4 @@
   * Vendor risk is determined and the appropriate vendor reviews are performed prior to authorizing a new vendor.
 
 ## Contact Us
-If you have any questions, comments or concerns or if you wish to report a potential security issue, please contact security@readyset.io
+If you have any questions, comments or concerns, or if you wish to report a potential security issue, please contact security@readyset.io
